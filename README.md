@@ -1,6 +1,8 @@
 # DIY_FND_Clock 🕙
 STM32F103C8T6 공부를 위한 FND 디지털 시계 DIY 프로젝트!
 
+"이 프로젝트를 만약 보시고 있다면, 피드백이나 더 좋은 의견이 있으신 분들은 언제든 편하게 이슈(Issues)나 댓글 남겨주시면 감사하겠습니다 😃"
+
 <img width="625" height="969" alt="FND_Clock_시계" src="https://github.com/user-attachments/assets/3c6351f6-9d52-420a-b717-b5b612081459" />
 
 ## 목적
